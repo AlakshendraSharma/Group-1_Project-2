@@ -11,4 +11,5 @@
 3.Sales Tracker system Form.txt : This is the text file of our code and all our assumptions.
 4. Normalisation Tables.xlsx : This file contains the original table which we extracted from the membership 
 cancellation form and we normalized that table upto 3NF.
-![image](https://user-images.githubusercontent.com/93215834/157846151-18d211c8-fc00-4c17-a6ad-00b541783a2e.png)
+![image](https://user-images.githubusercontent.com/93215834/157853773-9dbf649a-58a9-4b6f-8711-ecb92d87930a.png)
+
